@@ -17,12 +17,12 @@ export const AboutPage: React.FC = () => {
       {/* Hero Header matching Beaver Builder row-bg-photo */}
       <section className="relative overflow-hidden bg-slate-900">
         <div
-          className="absolute inset-0 bg-cover bg-center bg-no-repeat"
+          className="absolute inset-0 bg-cover bg-no-repeat bg-[center_35%] md:bg-[center_40%]"
           style={{
-            backgroundImage: `url('/images/photo_2020-11-18_17-42-09-1.jpg')`,
+            backgroundImage: `url('/images/school-building.jpg')`,
           }}
         />
-        <div className="absolute inset-0 bg-black/60 backdrop-blur-[1px]" />
+        <div className="absolute inset-0 bg-gradient-to-b from-slate-950/70 via-slate-900/50 to-slate-950/80 backdrop-blur-[0.5px]" />
 
         <div className="relative site-container py-24 sm:py-28 md:py-36 text-center">
           <h1 className="text-white font-bold text-3xl sm:text-4xl md:text-5xl lg:text-6xl tracking-tight">

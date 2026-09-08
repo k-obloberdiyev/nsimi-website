@@ -24,7 +24,7 @@ export const aboutPageData = {
   title: "Biz kimmiz?",
   goalTitle: "Bizing maqsadimiz",
   goalDescription: "O'zbekistonga kelajagi uchun o'z hissasini qo'shadigan va foydasi tegadiga yaxshi o'quvchi yoshlar yetkazib berish.",
-  goalImage: "/images/photo_2020-11-18_17-42-09-2.jpg",
+  goalImage: "/images/school-building.jpg",
   methodTitle: "Biz bilan bochqacha",
   methodDescription: "Navoiy shahar 1-sonli IMI butun O'zbekistonda o'zining a'lo bilimli o'quvchilar yetishtirib berishi bilan nom qozongan. Bizning maktabimizda tajribali va fidoyi o'qituvchilar ilg'or metodlar bilan dars berishadi.",
   directionsTitle: "Yo'nalishlar",
