@@ -209,7 +209,7 @@ export const ContactPage: React.FC = () => {
               <div className="mt-8 rounded-2xl overflow-hidden border border-gray-200 shadow-sm aspect-[16/9] bg-gray-100">
                 <iframe
                   title="Navoiy 1-IMI joylashuvi"
-                  src="https://maps.google.com/maps?q=Navoiy%20shahar%20Memorlar%20ko'chasi&t=&z=15&ie=UTF8&iwloc=&output=embed"
+                  src="https://maps.google.com/maps?q=51-uy%20Navoiy%20ko'chasi%20Navoiy%20shahri&t=&z=15&ie=UTF8&iwloc=&output=embed"
                   width="100%"
                   height="100%"
                   style={{ border: 0 }}

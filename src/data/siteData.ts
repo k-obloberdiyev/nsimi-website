@@ -13,7 +13,7 @@ export const navLinks: NavLink[] = [
 export const siteContactInfo = {
   schoolName: "Navoiy shahar 1-sonli IMI",
   organization: "Prezident ta'lim muassasalari agentligi tizimidagi Navoiy shahar 1-son ixtisoslashtirilgan maktab-internati",
-  address: "4965+Q34, Memorlar Ko'chasi, Navoi, O'zbekiston",
+  address: "51-uy, Navoiy ko'chasi, Navoiy shahri, O'zbekiston",
   email: "suxrobnavoiyinf@gmail.com",
   phone: "+998-79-224-02-11",
   telegram: "https://t.me/navoiy_shahar_IMI",
