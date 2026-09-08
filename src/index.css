@@ -1,0 +1,92 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #fb2056;
+  --color-primary-dark: #e01648;
+  --color-dark-heading: #0a0001;
+  --color-dark-text: #222222;
+  --color-dark-bg: #191919;
+  --color-light-bg: #f5f5f5;
+  --color-subtle-bg: #f2f5f7;
+  --color-footer-text: #d3d3d3;
+  --color-border-light: #dddddd;
+
+  --font-sans: 'Karla', sans-serif;
+  --font-heading: 'Rubik', sans-serif;
+}
+
+@layer base {
+  html {
+    font-family: var(--font-sans);
+    font-size: 17px;
+    color: var(--color-dark-text);
+    scroll-behavior: smooth;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-heading);
+    font-weight: 700;
+    color: var(--color-dark-heading);
+  }
+
+  body {
+    background-color: #ffffff;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
+}
+
+/* Custom Beaver Builder & Astra Match Utilities */
+.site-container {
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+/* Red / Pink Accent Separator */
+.uabb-separator {
+  height: 2px;
+  width: 60px;
+  background-color: #fb2056;
+  margin-top: 14px;
+  margin-bottom: 20px;
+}
+
+.uabb-separator-center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Button Styling matching Beaver Builder uabb-creative-button */
+.btn-primary-pill {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  background-color: #fb2056;
+  color: #ffffff;
+  border-radius: 60px;
+  padding: 10px 40px;
+  font-size: 14px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  transition: all 0.25s ease-in-out;
+  border: 2px solid #fb2056;
+}
+
+.btn-primary-pill:hover {
+  background-color: #e01648;
+  border-color: #e01648;
+  color: #ffffff;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(251, 32, 86, 0.25);
+}
+
+.btn-primary-pill:active {
+  transform: translateY(0);
+}
