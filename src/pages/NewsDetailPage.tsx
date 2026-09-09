@@ -31,9 +31,9 @@ export const NewsDetailPage: React.FC = () => {
 
   useEffect(() => {
     if (article) {
-      document.title = `${article.title} – Navoiy Shahridagi 1-IMI`;
+      document.title = `${article.title} – Navoiy shahar 1-sonli Ixtisoslashtirilgan maktab internati`;
     } else {
-      document.title = 'Yangilik topilmadi – Navoiy Shahridagi 1-IMI';
+      document.title = 'Yangilik topilmadi – Navoiy shahar 1-sonli Ixtisoslashtirilgan maktab internati';
     }
     window.scrollTo(0, 0);
   }, [article, slug]);

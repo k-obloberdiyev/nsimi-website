@@ -14,9 +14,9 @@ export const newsArticles: NewsItem[] = [
     "slug": "bizning-shunday-oquvchilarimiz-bor",
     "title": "Bizning shunday o'quvchilarimiz bor",
     "date": "November 29, 2022",
-    "excerpt": "Navoiy shahar 1-son Ixtisoslashtirilgan maktab-internatining 4 nafar oʻquvchisi Xalqaro fan olimpiadalari saralash bosqichidan muvaffaqiyatli oʻtib, keyingi bosqichga yoʻllanmani q...",
+    "excerpt": "Navoiy shahar 1-sonli Ixtisoslashtirilgan maktab internatining 4 nafar oʻquvchisi Xalqaro fan olimpiadalari saralash bosqichidan muvaffaqiyatli oʻtib, keyingi bosqichga yoʻllanmani q...",
     "paragraphs": [
-      "Navoiy shahar 1-son Ixtisoslashtirilgan maktab-internatining 4 nafar oʻquvchisi Xalqaro fan olimpiadalari saralash bosqichidan muvaffaqiyatli oʻtib, keyingi bosqichga yoʻllanmani qoʻlga kiritishdi. Oʻquvchilarimizga keyingi bosqichlarda omad tilab qolamiz."
+      "Navoiy shahar 1-sonli Ixtisoslashtirilgan maktab internatining 4 nafar oʻquvchisi Xalqaro fan olimpiadalari saralash bosqichidan muvaffaqiyatli oʻtib, keyingi bosqichga yoʻllanmani qoʻlga kiritishdi. Oʻquvchilarimizga keyingi bosqichlarda omad tilab qolamiz."
     ],
     "images": [
       "/images/photo_2022-11-08_15-05-21-1.jpg"
@@ -29,7 +29,7 @@ export const newsArticles: NewsItem[] = [
     "date": "November 8, 2022",
     "excerpt": "2022-yil 6-noyabr kuni Toshkent shahridagi Inha universitetida Janubiy Koreya Respublikasining INHA universiteti bilan hamkorlikda matematika va fizika fanlari boʻyicha oʻtkazilgan...",
     "paragraphs": [
-      "2022-yil 6-noyabr kuni Toshkent shahridagi Inha universitetida Janubiy Koreya Respublikasining INHA universiteti bilan hamkorlikda matematika va fizika fanlari boʻyicha oʻtkazilgan olimpiadada Navoiy shahar 1-son Ixtisoslashtirilgan maktab-internatining 2 nafar 11-sinf oʻquvchisi &#8211; Xolmirzayev Temur va Ikromova Shaxnoza gʻoliblikni qoʻlga kiritib INHA Universitetining taʼlim granti sohibiga aylanishdi."
+      "2022-yil 6-noyabr kuni Toshkent shahridagi Inha universitetida Janubiy Koreya Respublikasining INHA universiteti bilan hamkorlikda matematika va fizika fanlari boʻyicha oʻtkazilgan olimpiadada Navoiy shahar 1-sonli Ixtisoslashtirilgan maktab internatining 2 nafar 11-sinf oʻquvchisi &#8211; Xolmirzayev Temur va Ikromova Shaxnoza gʻoliblikni qoʻlga kiritib INHA Universitetining taʼlim granti sohibiga aylanishdi."
     ],
     "images": [
       "/images/photo_2022-11-08_15-05-21-2.jpg",
@@ -63,9 +63,9 @@ export const newsArticles: NewsItem[] = [
     "slug": "viloyat-olimpiadasi",
     "title": "Viloyat olimpiadasi",
     "date": "November 4, 2022",
-    "excerpt": "Prezident ta'lim muassasalari agentligi tizimidagi Navoiy shahar 1-son ixtisoslashtirilgan maktab-internatining 6 nafar 9-sinf o'quvchilari Respublika fan olimpiadasining III bosqi...",
+    "excerpt": "Prezident ta'lim muassasalari agentligi tizimidagi Navoiy shahar 1-sonli Ixtisoslashtirilgan maktab internatining 6 nafar 9-sinf o'quvchilari Respublika fan olimpiadasining III bosqi...",
     "paragraphs": [
-      "Prezident ta'lim muassasalari agentligi tizimidagi Navoiy shahar 1-son ixtisoslashtirilgan maktab-internatining 6 nafar 9-sinf o'quvchilari Respublika fan olimpiadasining III bosqichi (viloyat) da g'oliblikni qo'lga kiritishdi. Ushbu o'quvchilarimizning ustozlari va ota-onalariga o'z minnatdorchiligimizni bildiramiz. O'quvchilarimizga esa keyingi bosqichlarda omad tilab qolamiz."
+      "Prezident ta'lim muassasalari agentligi tizimidagi Navoiy shahar 1-sonli Ixtisoslashtirilgan maktab internatining 6 nafar 9-sinf o'quvchilari Respublika fan olimpiadasining III bosqichi (viloyat) da g'oliblikni qo'lga kiritishdi. Ushbu o'quvchilarimizning ustozlari va ota-onalariga o'z minnatdorchiligimizni bildiramiz. O'quvchilarimizga esa keyingi bosqichlarda omad tilab qolamiz."
     ],
     "images": [
       "/images/2.jpg"
@@ -76,9 +76,9 @@ export const newsArticles: NewsItem[] = [
     "slug": "respublika-olimpiadasi",
     "title": "Respublika olimpiadasi",
     "date": "June 11, 2022",
-    "excerpt": "Bugun bo'lib o'tgan biologiya fanidan Respublika fan olimpiadasida bizning \"Navoiy shahar 1-sonli IMI \" o‘quv markazimiz o'qituvchisi Parmanov Husniddin domlo shogirdlari Izzatullayev Javohi...",
+    "excerpt": "Bugun bo'lib o'tgan biologiya fanidan Respublika fan olimpiadasida bizning Navoiy shahar 1-sonli Ixtisoslashtirilgan maktab internati o‘quv markazimiz o'qituvchisi Parmanov Husniddin domlo shogirdlari Izzatullayev Javohi...",
     "paragraphs": [
-      "Bugun bo'lib o'tgan biologiya fanidan Respublika fan olimpiadasida bizning \"Navoiy shahar 1-sonli IMI \" o‘quv markazimiz o'qituvchisi Parmanov Husniddin domlo shogirdlari Izzatullayev Javohir faxrli &#x1f947;-o‘rinni qo'lga kiritdi &#x1f973;&#x1f973;&#x1f973;&#x1f44f;&#x1f44f;&#x1f44f; . Javohir tabriklaymiz yutuqlaringiz bundanda bardavom bo‘lsin !!!&#x1f490;&#x1f490; Parmanov Husniddin domlo sizni ham qutlaymiz &#x1f973; Shogirdlar yetishtirishda aslo charchamang!!!"
+      "Bugun bo'lib o'tgan biologiya fanidan Respublika fan olimpiadasida bizning Navoiy shahar 1-sonli Ixtisoslashtirilgan maktab internati o‘quv markazimiz o'qituvchisi Parmanov Husniddin domlo shogirdlari Izzatullayev Javohir faxrli &#x1f947;-o‘rinni qo'lga kiritdi &#x1f973;&#x1f973;&#x1f973;&#x1f44f;&#x1f44f;&#x1f44f; . Javohir tabriklaymiz yutuqlaringiz bundanda bardavom bo‘lsin !!!&#x1f490;&#x1f490; Parmanov Husniddin domlo sizni ham qutlaymiz &#x1f973; Shogirdlar yetishtirishda aslo charchamang!!!"
     ],
     "images": [
       "/images/photo_2022-10-04_18-27-57-768x1024.jpg",
@@ -95,7 +95,7 @@ export const newsArticles: NewsItem[] = [
       "Al-Xorazmiy nomidagi fan olimpiadasining respublika bosqichi gʻoliblari taqdirlandi",
       "Xalq taʼlimi vazirligi tomonidan iqtidorli oʻquvchilarni qoʻllab-quvvatlash maqsadida 7-8-sinf oʻquvchilari oʻrtasida matematika, fizika, kimyo va biologiya fanlaridan tashkil etilgan Al-Xorazmiy nomidagi fan olimpiadasining taqdirlash marosimi boʻlib oʻtdi.",
       "Olimpiada ishtirokchilarining bilimi test va yozma ish topshiriqlari boʻyicha baholandi. Barcha natijalar umumlashtirilib, har bir fan kesimida gʻolib oʻquvchilar aniqlandi.",
-      "Navoiy shahar 1-sonli IMI 8-&#8220;D&#8221; sinf oʻquvchisi Umidjonov Jahongir kimyo fanidan &#x1f949;3- oʻrinni qoʻlga kiritdi."
+      "Navoiy shahar 1-sonli Ixtisoslashtirilgan maktab internati 8-&#8220;D&#8221; sinf oʻquvchisi Umidjonov Jahongir kimyo fanidan &#x1f949;3- oʻrinni qoʻlga kiritdi."
     ],
     "images": [
       "/images/photo_2022-10-04_18-24-42-1024x768.jpg",
@@ -111,7 +111,7 @@ export const newsArticles: NewsItem[] = [
     "paragraphs": [
       "Саволлар мактаб дарсликлари бўйича тузилади. Ўқувчининг асосан мантиқий фикрлаш қобилиятлари текширилади.",
       "Ал-Хоразмий номидаги мактаб директори ўринбосари Дилрабо Давидова ихтисослаштирилган мактабларга имтиҳон жараёнларига тайёргарлик ҳақида маълумот берди, дея хабар бермоқда Kun.uz мухбири.",
-      "“Янгидан ташкил этилаётган мактабларга имтиҳонлар 2 йўналишда бўлиб ўтади. Булар аниқ ва табиий фанларга ихтисослаштирилган йўналишлар. Имтиҳон саволлари мактаб дастурлари ва дарсликларидан чиқмаган ҳолда ҳар бир синф кесимида боланинг ёшига мослаб халқаро эксперт ва мутахассислар иштирокида ишлаб чиқилган”, – деди Давидова.",
+      "“Янгидан ташкил этилаётган мактабларга имтиҳонлар 2 йўналишда бўлиб ўтади. Буlar аниқ ва табиий фанларга ихтисослаштирилган йўналишлар. Имтиҳон саволлари мактаб дастурлари ва дарсликларидан чиқмаган ҳолда ҳар бир синф кесимида боланинг ёшига мослаб халқаро эксперт ва мутахассислар иштирокида ишлаб чиқилган”, – деди Давидова.",
       "Унинг қўшимча қилишича, саволларда асосий урғу боланинг у ёки бу фандан билимини эмас, балки шу билимни қўллай олиши, мулоҳазаси ва мантиғини текширишга қаратилган.",
       "Президент таълим муассасалари агентлиги таркибидаги мактаблар қабулига бағишланган тадбирда янги ихтисослаштирилган мактаблар квотаси ҳақида ҳам маълум қилинди.",
       "Агентлик раҳбари Ҳилола Умаровага кўра, ҳар бир синфда 24 нафар ўқувчи ўқийди, лекин ҳар бир мактабда нечта синф бўлиши аниқ белгиланмаган. Бу – тумандаги мактабнинг квотаси ва ҳудудий жойлашувига қараб белгиланади.",
@@ -130,7 +130,7 @@ export const newsArticles: NewsItem[] = [
       "Buyilgi Prezident maktabini kirgan Saxadov ustozimiz va ular bilan birga ishlagan ustozlarimizning o'quvchilari super natijasi&#x1f447;",
       "&#x2705;1-o'rin Saydullayev Abdulhamid&#x2705;4. Yuldashev Temur&#x2705;6 Muradullayev Jasurbek&#x2705;11.Qulmamatov Dostonbek&#x2705;13.Ubaydullayev Temurbek&#x2705;20.Yakubjonov Bunyodbek&#x2705;22. TOJIYEV MUHAMMADJON&#x2705;23. ISMOILOVA OQILA",
       "Bu yilgi natijalarimiz &#x1f447;",
-      "&#x2705;Navoiy shahar 1-sonli IMI (Navoiy 1-ixtisoslashgan ) maktab-internatiga 20 ta (+10)&#x2705;Nurota Tomdi Qizltepaga Ixtisoslashgan maktablariga 80 dan ortiq&#x2705;Abiturentlarimiz 50 ga yaqin",
+      "&#x2705;Navoiy shahar 1-sonli Ixtisoslashtirilgan maktab internatiga 20 ta (+10)&#x2705;Nurota Tomdi Qizltepaga Ixtisoslashgan maktablariga 80 dan ortiq&#x2705;Abiturentlarimiz 50 ga yaqin",
       "&#x1f4a5;Natijalarimiz ko'rish uchun&#x1f447;https://t.me/alif_oquvmarkazi"
     ],
     "images": [

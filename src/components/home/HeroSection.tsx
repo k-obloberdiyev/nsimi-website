@@ -21,8 +21,8 @@ export const HeroSection: React.FC = () => {
         </div>
 
         {/* Main H1 Title */}
-        <h1 className="text-white font-bold text-3xl sm:text-5xl md:text-6xl lg:text-[64px] tracking-tight leading-[1.2] max-w-4xl mb-8 sm:mb-10 drop-shadow-[0_4px_16px_rgba(0,0,0,0.6)] animate-in fade-in slide-in-from-bottom-4 duration-700">
-          Navoiy Shahridagi 1-IMI
+        <h1 className="text-white font-bold text-3xl sm:text-4xl md:text-5xl lg:text-6xl tracking-tight leading-[1.2] max-w-4xl mb-8 sm:mb-10 drop-shadow-[0_4px_16px_rgba(0,0,0,0.6)] animate-in fade-in slide-in-from-bottom-4 duration-700">
+          Navoiy shahar 1-sonli Ixtisoslashtirilgan maktab internati
         </h1>
 
         {/* CTA Button */}

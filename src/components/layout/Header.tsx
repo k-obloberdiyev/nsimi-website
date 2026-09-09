@@ -26,11 +26,11 @@ export const Header: React.FC = () => {
           <Link
             to="/"
             className="flex items-center gap-3 group focus:outline-none"
-            aria-label="Navoiy Shahridagi 1-IMI"
+            aria-label="Navoiy shahar 1-sonli Ixtisoslashtirilgan maktab internati"
           >
             <img
               src="/images/logo.png"
-              alt="Navoiy Shahar 1-son Ixtisoslashtirilgan Maktab-Internati"
+              alt="Navoiy shahar 1-sonli Ixtisoslashtirilgan maktab internati"
               className="w-[55px] h-[55px] md:w-[68px] md:h-[68px] object-contain rounded-md transition-transform group-hover:scale-105"
             />
           </Link>
