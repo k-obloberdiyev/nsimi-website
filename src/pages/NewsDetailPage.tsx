@@ -31,9 +31,9 @@ export const NewsDetailPage: React.FC = () => {
 
   useEffect(() => {
     if (article) {
-      document.title = `${article.title} – Navoiy shahar 1-sonli Ixtisoslashtirilgan maktab internati`;
+      document.title = `${article.title} – Navoiy 1-son ixtisoslashtirilgan maktab-internati`;
     } else {
-      document.title = 'Yangilik topilmadi – Navoiy shahar 1-sonli Ixtisoslashtirilgan maktab internati';
+      document.title = 'Yangilik topilmadi – Navoiy 1-son ixtisoslashtirilgan maktab-internati';
     }
     window.scrollTo(0, 0);
   }, [article, slug]);

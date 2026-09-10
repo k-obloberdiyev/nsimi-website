@@ -14,7 +14,7 @@ export const ContactPage: React.FC = () => {
   const [isSubmitting, setIsSubmitting] = useState(false);
 
   useEffect(() => {
-    document.title = 'Aloqa – Navoiy shahar 1-sonli Ixtisoslashtirilgan maktab internati';
+    document.title = 'Aloqa – Navoiy 1-son ixtisoslashtirilgan maktab-internati';
     window.scrollTo(0, 0);
   }, []);
 
@@ -208,7 +208,7 @@ export const ContactPage: React.FC = () => {
               {/* Interactive map snippet */}
               <div className="mt-8 rounded-2xl overflow-hidden border border-gray-200 shadow-sm aspect-[16/9] bg-gray-100">
                 <iframe
-                  title="Navoiy shahar 1-sonli Ixtisoslashtirilgan maktab internati joylashuvi"
+                  title="Navoiy 1-son ixtisoslashtirilgan maktab-internati joylashuvi"
                   src="https://maps.google.com/maps?q=51-uy%20Navoiy%20ko'chasi%20Navoiy%20shahri&t=&z=15&ie=UTF8&iwloc=&output=embed"
                   width="100%"
                   height="100%"
