@@ -7,7 +7,7 @@ import { ArrowRight, Calendar } from 'lucide-react';
 
 export const NewsPage: React.FC = () => {
   useEffect(() => {
-    document.title = 'Yangiliklar – Navoiy 1-son ixtisoslashtirilgan maktab-internati';
+    document.title = 'Yangiliklar – Navoiy shahar 1-son ixtisoslashtirilgan maktab-internati';
     window.scrollTo(0, 0);
   }, []);
 

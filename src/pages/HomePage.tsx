@@ -4,7 +4,7 @@ import { QuoteSection } from '../components/home/QuoteSection';
 
 export const HomePage: React.FC = () => {
   useEffect(() => {
-    document.title = 'Navoiy 1-son ixtisoslashtirilgan maktab-internati';
+    document.title = 'Navoiy shahar 1-son ixtisoslashtirilgan maktab-internati';
     window.scrollTo(0, 0);
   }, []);
 

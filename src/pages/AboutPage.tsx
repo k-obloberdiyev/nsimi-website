@@ -8,7 +8,7 @@ export const AboutPage: React.FC = () => {
   const [modalImage, setModalImage] = useState<string | null>(null);
 
   useEffect(() => {
-    document.title = 'Biz haqimizda – Navoiy 1-son ixtisoslashtirilgan maktab-internati';
+    document.title = 'Biz haqimizda – Navoiy shahar 1-son ixtisoslashtirilgan maktab-internati';
     window.scrollTo(0, 0);
   }, []);
 
@@ -122,7 +122,7 @@ export const AboutPage: React.FC = () => {
       <ImageModal
         isOpen={!!modalImage}
         src={modalImage || ''}
-        alt="Navoiy 1-son ixtisoslashtirilgan maktab-internati"
+        alt="Navoiy shahar 1-son ixtisoslashtirilgan maktab-internati"
         onClose={() => setModalImage(null)}
       />
     </div>

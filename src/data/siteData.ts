@@ -11,8 +11,8 @@ export const navLinks: NavLink[] = [
 ];
 
 export const siteContactInfo = {
-  schoolName: "Navoiy 1-son ixtisoslashtirilgan maktab-internati",
-  organization: "Prezident ta'lim muassasalari agentligi tizimidagi Navoiy 1-son ixtisoslashtirilgan maktab-internati",
+  schoolName: "Navoiy shahar 1-son ixtisoslashtirilgan maktab-internati",
+  organization: "Prezident ta'lim muassasalari agentligi tizimidagi Navoiy shahar 1-son ixtisoslashtirilgan maktab-internati",
   address: "51-uy, Navoiy ko'chasi, Navoiy shahri, O'zbekiston",
   email: "suxrobnavoiyinf@gmail.com",
   phone: "+998-79-224-02-11",
@@ -26,7 +26,7 @@ export const aboutPageData = {
   goalDescription: "O'zbekistonga kelajagi uchun o'z hissasini qo'shadigan va foydasi tegadiga yaxshi o'quvchi yoshlar yetkazib berish.",
   goalImage: "/images/school-building.jpg",
   methodTitle: "Biz bilan bochqacha",
-  methodDescription: "Navoiy 1-son ixtisoslashtirilgan maktab-internati butun O'zbekistonda o'zining a'lo bilimli o'quvchilar yetishtirib berishi bilan nom qozongan. Bizning maktabimizda tajribali va fidoyi o'qituvchilar ilg'or metodlar bilan dars berishadi.",
+  methodDescription: "Navoiy shahar 1-son ixtisoslashtirilgan maktab-internati butun O'zbekistonda o'zining a'lo bilimli o'quvchilar yetishtirib berishi bilan nom qozongan. Bizning maktabimizda tajribali va fidoyi o'qituvchilar ilg'or metodlar bilan dars berishadi.",
   directionsTitle: "Yo'nalishlar",
   directionsDescription: "Hozirda maktabimizda quyidagi 2 turdagi yo'nalishlar mavjud:",
   directions: [
